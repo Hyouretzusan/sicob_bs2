@@ -1,0 +1,160 @@
+.bordeyfondogris {
+	background-color: #FBFBFB;
+	border: 1px solid #E2E2E2;
+}
+.bordeyfondogrisMENOS {
+	background-color: #FFFFFF;
+	border: 1px solid #CCCCCC;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #FF9933;
+}
+a:link {
+	color: #FF9900;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #FF9900;
+}
+a:hover {
+	text-decoration: underline;
+	color: #003366;
+}
+a:active {
+	color: #FF9900;
+	text-decoration: none;
+}
+.FONDO GRIS LETRAS AZULES {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #EEEEEE;
+}
+.FondoAzulLetrasBlancaTABLAS {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #006699;
+}
+.Fondofecha {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #FF9900;
+	background-color: #EEEEEE;
+}
+.titulospequenosAnaranjados {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FF9900;
+	vertical-align: middle;
+	text-decoration: none;
+}
+.Anaranjados_fechas {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #FF9900;
+	vertical-align: middle;
+	text-decoration: underline;
+}
+.Estilo7sinlink {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FF9900;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bolder;
+}
+.titulosmedianosAnaranjadosCopia {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FF9900;
+	text-decoration: none;
+}
+.Estilo8sinlinkColorAzulparaMTTO {
+
+font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #003366;
+}
+.titulospequenosAzules {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #003366;
+	text-decoration: none;
+}
+.titulosmedianosAzules {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #003366;
+	font-weight: bolder;
+}
+.titulospequenoAzules {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #003366;
+	font-weight: bolder;
+}
+.titulosgrandesAzules {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #003366;
+	vertical-align: middle;
+	text-decoration: none;
+	font-weight: normal;
+}
+.titulospequenosAnaranjadosConLink {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FF9900;
+	vertical-align: middle;
+}
+.FondoAzulLetrasBlancaTitulos {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #006699;
+}
+.FondoAzulLetrasBlancaTitulosp {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #006699;
+}
+
+.titulospequenosAzulesFondoGris {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #003366;
+	text-decoration: none;
+	background-color: #EBEBEB;
+}
+.titulosmedianosAzulesFondoGris {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #003366;
+	text-decoration: none;
+	background-color: #EBEBEB;
+	font-weight: bolder;
+}
+
+#demoIzq, #demoDer, #demoMed { border:0px dashed; width:195px; background-color:#FFFFFF; text-align:center; margin:0 1px 0 1px; }
+
+#demoDer, #demoMed { float:right; }
+
+select { width:150px; }

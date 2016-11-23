@@ -1,0 +1,48 @@
+.graphite .accordion{
+	font: bold 14px Calibri, Calibri; 
+	border-top: 2px solid #880000; 
+	border-right: 2px solid #880000; 
+	border-left: 2px solid #880000;
+	}
+	
+.graphite .accordion, .graphite .accordion li {
+	margin: 0; padding: 0; 
+	border: none;
+	}
+.graphite .accordion a {
+	padding: 5px 10px 5px 50px; 
+	background: #ffffff; 
+	text-decoration:none; 
+	display: block; 
+	color: #000000;
+	 border-bottom: 2px solid #880000;  
+	 border-right: 2px solid #880000; 
+	 border-left: 2px solid #880000; 
+	 position: relative; 
+	 text-shadow: 1px 1px 1px #fff;
+	 }
+.graphite .accordion ul a {background: #fff;}
+
+.graphite .accordion a.dcjq-parent, .graphite .accordion a.dcjq-parent:hover {background: #ffffff /*url(../multimedia/bg_grey.png) repeat-x 0 -1px;*/}
+
+.graphite .accordion a.dcjq-parent.active {}
+
+.graphite .accordion a .dcjq-icon {
+	position: absolute; 
+	top: 50%; 
+	left: 14px; 
+	width: 34px; 
+	margin-top: -20px; 
+	height: 34px; 
+	background: url(../multimedia/carousel_right.png) no-repeat 0 center;
+	}
+	
+.graphite .accordion a.dcjq-parent.active .dcjq-icon {
+	background: url(../multimedia/carousel_down.png) no-repeat 0 center;
+	}
+	
+.graphite .accordion a:hover {
+	background: #CCC; 
+	color: #880000;
+	}
+.graphite .accordion a:active{}

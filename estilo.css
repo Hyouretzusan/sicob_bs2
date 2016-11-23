@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+body { text-align: center;
+}
+
+#cuerpo {
+/*width: 400px;
+text-align: center;*/
+width: 500px;
+background-color: #f4f4f4;
+border-left: 3px solid #9bb09d;
+border-right: 3px solid #9bb09d;
+border-top: 3px solid #9bb09d;
+border-bottom: 3px solid #9bb09d;
+border-radius: 10px;
+font-family:Calibri;
+font-size:16px;
+}
+
+#cuerpoinicio {
+/*width: 400px;
+text-align: center;*/
+width: 520px;
+background-color: #f4f4f4;
+border-left: 3px solid #9bb09d;
+border-right: 3px solid #9bb09d;
+border-top: 3px solid #9bb09d;
+border-bottom: 3px solid #9bb09d;
+border-radius: 10px;
+font-family:Calibri;
+}
